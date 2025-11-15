@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - ViceWeb</title>
+</head>
+<body>
+
+<nav style="background: #333; padding: 15px;">
+    <a href="index.html" style="color: white; margin-right: 20px; text-decoration: none;">Home</a>
+    <a href="about.html" style="color: white; margin-right: 20px; text-decoration: none;">About</a>
+    <a href="contact.html" style="color: white; text-decoration: none;">Contact</a>
+</nav>
+
+<h1>About ViceWeb</h1>
+<p>ViceWeb is a growing web development brand created by Jibril. 
+We build fast, modern and beautiful websites for businesses and individuals.</p>
+
+</body>
+</html>
